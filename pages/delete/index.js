@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useEffect, useState } from "react";
-import {auth,provider} from "./config";
+import {auth,provider} from "../../app/config";
 import {signInWithPopup} from "firebase/auth";
 
 function SignIn(){
