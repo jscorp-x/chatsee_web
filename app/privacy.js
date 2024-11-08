@@ -7,7 +7,7 @@ export default function PrivacyPolicy() {
           <h1 className="pt-96">Privacy Policy</h1>
           <h1 className="pt-96">Privacy Policy</h1>
           <h1 className="pt-96">Privacy Policy</h1>
-          <p>Last updated: September 18, 2024</p>
+          <p>Last updated: November 8, 2024</p>
           <p>
             This Privacy Policy describes Our policies and procedures on the collection,
             use and disclosure of Your information when You use the Service and tells
@@ -16,15 +16,7 @@ export default function PrivacyPolicy() {
           <p>
             We use Your Personal data to provide and improve the Service. By using the
             Service, You agree to the collection and use of information in accordance
-            with this Privacy Policy. This Privacy Policy has been created with the help
-            of the{" "}
-            <a
-              href="https://www.termsfeed.com/privacy-policy-generator/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Privacy Policy Generator
-            </a>
+            with this Privacy Policy. 
           </p>
           <h2>Interpretation and Definitions</h2>
           <h3>Interpretation</h3>
@@ -131,9 +123,6 @@ export default function PrivacyPolicy() {
             </li>
             <li>
               <p>First name and last name</p>
-            </li>
-            <li>
-              <p>Usage Data</p>
             </li>
           </ul>
           <h4>Usage Data</h4>
@@ -422,7 +411,7 @@ export default function PrivacyPolicy() {
           <h2>Contact Us</h2>
           <p>If you have any questions about this Privacy Policy, You can contact us:</p>
           <ul>
-            <li>By email: rupachasgvn@gmail.com</li>
+            <li>By email: jscorp360@gmail.com</li>
           </ul>
         </div>      
     )
